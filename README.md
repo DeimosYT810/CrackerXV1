@@ -17,7 +17,7 @@
 BY DEIMOS :))
 FIRST STEP
 1.
-sudo apt install python 3
+sudo apt install python3
 
 HOW TO INSTALL? 
 
