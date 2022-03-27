@@ -15,10 +15,14 @@
 ░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░░░░╚═╝  ░░░╚═╝░░░░╚════╝░░╚════╝░╚══════╝
 
 BY DEIMOS :))
+FIRST STEP
+1.
+sudo apt install python 3
 
 HOW TO INSTALL? 
 
 1. git clone https://github.com/DeimosYT810/CrackerXV1
+2.python3 CrackerX.py
 
 
 ![a](https://user-images.githubusercontent.com/94899953/160286614-32be2c55-578b-406e-b67b-5448dda99ef9.png)
